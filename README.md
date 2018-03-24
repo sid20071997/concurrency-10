@@ -3,9 +3,7 @@
  A capture the flag game, where 2 teams fight over to get other teams flag
  
 # language
- 
- Golang for server
- C++ for rest
+Use of c++ with multithreading and threadpool
  
 # team members
  
